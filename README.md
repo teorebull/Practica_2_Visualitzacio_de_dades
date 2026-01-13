@@ -12,5 +12,14 @@ Aquest projecte analitza l'evolució de la música a través de l'una base de da
 * **Python (Pandas/Numpy):** Processament de dades, scraping, normalització (Base 0) i classificació d'artistes.
 * **Flourish:** Creació de visualitzacions interactives (Boxplots, Stacked Area, Diverging Charts).
 
+
+## src
+* **get_genders.ipynb:** Llibreta per aconseguir el gèneres dels artistes
+* **eda_practica2:** Llibreate per fer EDA
+
+## Datasets
+* **spotify_data_FINAL_TO_VIZ.csv:** Dataset pulit per la majoria de les gràfiques
+* **dades_extra_analisi.csv:** Dataset creat per l'última slide de flourish.
+
 ## 📄 Llicència
 Aquest projecte està sota la llicència MIT.
