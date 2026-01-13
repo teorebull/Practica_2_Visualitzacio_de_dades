@@ -1,0 +1,1 @@
+# Practica_2_Visualitzacio_de_dades
